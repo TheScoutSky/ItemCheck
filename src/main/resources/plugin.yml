@@ -1,0 +1,6 @@
+name: Itemcheck
+version: '${project.version}'
+main: de.theskyscout.itemcheck.Itemcheck
+api-version: 1.19
+authors: [ TheSkyScout ]
+description: API for checking Items
